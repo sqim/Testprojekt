@@ -1,1 +1,3 @@
-Detta är ett test
+Detta ï¿½r ett test
+
+Detta skiver jag pÃ¥ github
